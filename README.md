@@ -1,2 +1,2 @@
 # HelloVR
-Class Exercise - Basketball (Ball Spawn)
+ Class Basketball Project (Ball Spawn)
